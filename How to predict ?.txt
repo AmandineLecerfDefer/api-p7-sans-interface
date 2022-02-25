@@ -1,0 +1,3 @@
+web link : https://api-p7-scoring-sans-interface.herokuapp.com/
+
+to predict https://api-p7-scoring-sans-interface.herokuapp.com/predict?id_client=100005
